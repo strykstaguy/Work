@@ -1,5 +1,10 @@
 Here are just a few of the works I created in Powerpoint.
 
+#### Content
+1. [Voice of the Customer](#voice-of-the-customer)
+1. [Executive Dashboard](#executive-dashboard)
+1. [Call Center Marketing Material](#call-center-marketing-material)
+
 ## Voice of the Customer
 
 This is a report I worked on monthly that helped us visualize what the customers think of the business and expectations they have for the products and services. Survey feedback and Quality Monitoring data makes up the slides. 
