@@ -1,4 +1,4 @@
-Here are just a few of the works I created in Powerpoint.
+Here are just a few of the works I created in PowerPoint.
 
 #### Content
 1. [Voice of the Customer](#voice-of-the-customer)
